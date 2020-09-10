@@ -11,7 +11,7 @@
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.mejolaro@gmail.com)](mailto:ricardo.mejolaro@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-mejolaro/)](https://www.linkedin.com/in/ricardo-mejolaro/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:ricardo.mejolaro@outlook.com)](mailto:ricardo.mejolaro@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:ricardo.mejolaro@outlook.com)](mailto:ricardo.mejolaro@outlook.com)
 
 - ⚡ Fun fact **Oneye 😜**
 
