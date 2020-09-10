@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi dear 👋, I'm Ricardo Mejolaro</h1>
 <h3 align="center">I'm a Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RicardoMejolaro" alt="Ricardo Mejolaro" /> </p>
@@ -10,7 +8,10 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
-- 📫 How to reach me **ricardo.mejolaro@gmail.com**
+- 📫 How to reach me:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.mejolaro@gmail.com)](mailto:ricardo.mejolaro@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-mejolaro/)](https://www.linkedin.com/in/ricardo-mejolaro/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:ricardo.mejolaro@outlook.com)](mailto:ricardo.mejolaro@outlook.com)
 
 - ⚡ Fun fact **Oneye 😜**
 
