@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [ricardo.mejolaro.net.br](https://github.com/RicardoMejolaro)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, NodeJs, PostgreSQL, MySQL**
 
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.mejolaro@gmail.com)](mailto:ricardo.mejolaro@gmail.com)
