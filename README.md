@@ -18,7 +18,7 @@
 <img src="https://image.flaticon.com/icons/png/128/919/919827.png" alt="html5"  width="20" height="20"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919826.png" alt="css3"  width="20" height="20"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919828.png" alt="javascript" width="20" height="20"/>
-<img src="https://image.flaticon.com/icons/png/128/919/919825.png" alt="nodejs" width="20" height="20"/></p><p align="center">
+<img src="https://image.flaticon.com/icons/png/128/919/919825.png" alt="nodejs" width="20" height="20"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919851.png" alt="react"  width="20" height="20"/>
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs"  width="20" height="20"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919832.png" alt="typescript"  width="20" height="20"/>
