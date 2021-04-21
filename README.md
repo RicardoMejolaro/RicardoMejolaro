@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
-<p align="center">
+<p align="left">
 <img src="https://www.flaticon.com/free-icon/html-5_919827" alt="html5"  width="20" height="20"/>
 <img src="https://www.flaticon.com/free-icon/css_919826" alt="css3"  width="20" height="20"/>
 <img src="https://www.flaticon.com/free-icon/javascript_919828" alt="javascript" width="20" height="20"/>
