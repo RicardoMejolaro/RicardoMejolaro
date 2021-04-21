@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [ricardo.mejolaro.net.br](https://github.com/RicardoMejolaro)
 
-- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, NodeJS, PostgreSQL, MySQL**
+- 💬 Ask me about **HTML, CSS, Javascript, Typescript, ReactJS, NodeJS, NextJs, PostgreSQL, MySQL, MongoDB**
 
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.mejolaro@gmail.com)](mailto:ricardo.mejolaro@gmail.com)
@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Oneye 😜**
 
 <p align="left">
-<img src="https://www.flaticon.com/free-icon/html-5_919827" alt="html5"  width="20" height="20"/>
+<img src="https://image.flaticon.com/icons/png/128/919/919827.png" alt="html5"  width="20" height="20"/>
 <img src="https://www.flaticon.com/free-icon/css_919826" alt="css3"  width="20" height="20"/>
 <img src="https://www.flaticon.com/free-icon/javascript_919828" alt="javascript" width="20" height="20"/>
 <img src="https://www.flaticon.com/free-icon/nodejs_919825" alt="nodejs" width="20" height="20"/></p><p align="center">
