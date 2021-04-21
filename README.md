@@ -25,6 +25,9 @@
 <img src="https://image.flaticon.com/icons/png/128/919/919836.png" alt="mysql" width="20" height="20"/>  
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="20" height="20"/>
 <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="mongodb" width="20" height="20"/> 
+</p>
+
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=RicardoMejolaro&show_icons=true" alt="Ricardo Mejolaro"/> 
 </p>
 
