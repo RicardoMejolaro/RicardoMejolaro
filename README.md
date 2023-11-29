@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [ricardo.mejolaro.net.br](https://github.com/RicardoMejolaro)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Typescript, ReactJS, NodeJS, NextJs, PostgreSQL, MySQL, MongoDB**
+- 💬 Ask me about **HTML, HTML5, CSS, CSS3, JavaScript, ReactJS, NextJS, React Native, VueJS2, VueJS3, TypeScript, NodeJS, NestJS, Java, SQL, MySQL, MongoDB, Amazon AWS, Docker, Git, GitHub**
 
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.mejolaro@gmail.com)](mailto:ricardo.mejolaro@gmail.com)
@@ -15,17 +15,24 @@
 - ⚡ Fun fact **Oneye 😜**
 
 <p align="left">
-<img src="https://image.flaticon.com/icons/png/128/919/919827.png" alt="html5"  width="20" height="20"/>
-<img src="https://image.flaticon.com/icons/png/128/919/919826.png" alt="css3"  width="20" height="20"/>
-<img src="https://image.flaticon.com/icons/png/128/919/919828.png" alt="javascript" width="20" height="20"/>
-<img src="https://image.flaticon.com/icons/png/128/919/919825.png" alt="nodejs" width="20" height="20"/>
-<img src="https://image.flaticon.com/icons/png/128/919/919851.png" alt="react"  width="20" height="20"/>
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs"  width="20" height="20"/>
-<img src="https://image.flaticon.com/icons/png/128/919/919832.png" alt="typescript"  width="20" height="20"/>
-<img src="https://image.flaticon.com/icons/png/128/919/919836.png" alt="mysql" width="20" height="20"/>  
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="20" height="20"/>
-<img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="mongodb" width="20" height="20"/> 
-<img src="https://github-readme-stats.vercel.app/api?username=RicardoMejolaro&show_icons=true" alt="Ricardo Mejolaro"/> 
+  <a href="#"><img src="https://icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" alt="html" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" alt="css" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2107/PNG/128/file_type_js_official_icon_130509.png" alt="javascript" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2415/PNG/128/nodejs_original_wordmark_logo_icon_146412.png" alt="nodejs" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2107/PNG/128/file_type_reactjs_icon_130205.png" alt="react" width="20" height="20"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" alt="typescript" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="20" height="20"/></a>
+  <a href="#"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="20" height="20"/></a>
+  <a href="#"><img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="mongodb" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2699/PNG/128/aws_logo_icon_167953.png" alt="aws" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2107/PNG/128/file_type_docker_icon_130643.png" alt="docker" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" alt="git" width="20" height="20"/></a>
+  <a href="#"><img src="https://icon-icons.com/icons2/2107/PNG/128/file_type_github_icon_130565.png" alt="github" width="20" height="20"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMejolaro&show_icons=true" alt="Ricardo Mejolaro"/> 
 </p>
 
 <p align="center">
